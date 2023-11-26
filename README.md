@@ -63,7 +63,7 @@ __Language__
 **Cloud**
   <p>
    <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=for-the-badge&logo=naver&logoColor=white">
-   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+   
   </p>
   
 **Tools**
